@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kmar Ben Ayed</h1>
-<h3 align="center">Software Engineer in the making 🚀 | Turning ideas into code, one commit at a time</h3>
+<h3 align="center"> Turning ideas into code</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A259FF&center=true&vCenter=true&width=600&lines=Software+Engineer+in+the+Making...;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;One+Commit+Closer+to+the+Future" alt="Typing SVG" />
@@ -14,7 +14,7 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/kmar-b-b2026621a" target="_blank">
+  <a href="https://www.linkedin.com/in/kmar-b-b2026621a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-A259FF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.kaggle.com/kmarbenayed" target="_blank">
@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  🎓 Software Engineering Student @ INSAT, Tunisia &nbsp;|&nbsp; 💻 Full-Stack & AI Development &nbsp;|&nbsp; 📍 Sfax, Tunisia
+  🎓 Software Engineering Student @ INSAT, Tunisia &nbsp;|&nbsp; 💻 Full-Stack & AI Development &nbsp;
 </p>
 
 <br>
@@ -84,7 +84,6 @@
     <td width="50%" valign="top">
       <h3>🤖 UniBot</h3>
       <p><strong>React · FastAPI · Ollama · Hugging Face · Groq</strong></p>
-      <p>A comparative study & dashboard for deploying a Small Language Model chatbot for university clubs, benchmarking three zero-cost deployment strategies on cost, latency, and accuracy. Includes a multilingual chat UI and FAQ management system.</p>
       <a href="https://github.com/kmar-ben-ayed/UniBot" target="_blank">
         <img src="https://img.shields.io/badge/-View_Repo-A259FF?style=flat&logo=github&logoColor=white" />
       </a>
@@ -92,7 +91,6 @@
     <td width="50%" valign="top">
       <h3>🏥 MedConnect</h3>
       <p><strong>React · NestJS · PostgreSQL · Redis · GraphQL</strong></p>
-      <p>A healthcare management platform connecting patients, doctors, labs, and insurers. Implemented appointment scheduling, doctor availability, GraphQL APIs, and BullMQ-powered reminder notifications.</p>
       <a href="https://github.com/azizamari/projet_nest_gl3" target="_blank">
         <img src="https://img.shields.io/badge/-View_Repo-A259FF?style=flat&logo=github&logoColor=white" />
       </a>
@@ -102,7 +100,6 @@
     <td width="50%" valign="top">
       <h3>🔄 SkillSwap</h3>
       <p><strong>ASP.NET · Razor</strong></p>
-      <p>A peer-to-peer, credit-based skill exchange platform. Developed the listing and skill management modules to connect people offering and seeking skills.</p>
       <a href="https://github.com/elaaG/SkillSwap" target="_blank">
         <img src="https://img.shields.io/badge/-View_Repo-A259FF?style=flat&logo=github&logoColor=white" />
       </a>
