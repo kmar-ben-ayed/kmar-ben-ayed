@@ -107,7 +107,6 @@
     <td width="50%" valign="top">
       <h3>🎵 Vinyl E-commerce</h3>
       <p><strong>Symfony · Twig · PHP · MySQL</strong></p>
-      <p>A full-stack e-commerce platform for vinyl sales, featuring authentication, role-based access control, inventory management, and secure order processing.</p>
       <a href="https://github.com/azizamari/projet_web_gl225" target="_blank">
         <img src="https://img.shields.io/badge/-View_Repo-A259FF?style=flat&logo=github&logoColor=white" />
       </a>
